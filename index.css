@@ -20,7 +20,7 @@ body{
 }
 
 .buttons{
-    min-width: 500px;
+    min-width: 400px;
     width: 50%;
     margin: 0 auto;
     display: flex;
@@ -61,10 +61,15 @@ body{
 }
 
 @media (max-width:900px) {
+
+    body{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
     
     .header{
         font-size: 1.5rem;
-        padding-top: 70%;
     }
     
     .buttons{

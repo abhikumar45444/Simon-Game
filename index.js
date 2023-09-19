@@ -111,6 +111,8 @@ function gameOver() {
         $("header").text("Game Over");
       
         playSound("wrong");
+        gamePattern = [];
+        userClickedPattern = [];
     }, 1000);
 
   setTimeout(() => {
