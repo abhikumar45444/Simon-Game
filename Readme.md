@@ -3,7 +3,7 @@
 ### Memory and pattern recognition game
 Simon is an electronic memory game with four colored buttons that light up and produce sounds. Players must replicate increasingly complex sequences of lights and sounds, testing their memory and pattern recognition skills. The game ends if a mistake is made.
 ## 
-Visit Website: [Simon Game Website]().
+Visit Website: [Simon Game Website](https://abhikumar45444.github.io/Simon-Game/).
 
 ## Language and Tools: 
 <div style="display: flex; justify-content: space-evenly">
